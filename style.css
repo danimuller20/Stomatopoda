@@ -5,7 +5,7 @@ body {
 
 header {
   /*img SOURSE:https://as2.ftcdn.net/jpg/00/73/39/21/500_F_73392148_IQKrUPkIQyfWZpHj4OPRDJtpSa51Z1Ch.jpg */
-  background-image: url(https://github.com/danimuller20/Stomatopoda/blob/master/img/Stomatopoda.png?raw=true);
+  background-image: url(./img/Stomatopoda.png);
   background-repeat: no-repeat;
   background-position: 70% 8%;
   background-size: cover;
